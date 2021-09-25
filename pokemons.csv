@@ -1,0 +1,22 @@
+id,Name,Type 1
+1,Bulbasaur,Grass
+2,Ivysaur,Grass
+3,Venusaur,Grass
+4,Charmander,Fire
+5,Charmeleon,Fire
+6,Charizard,Fire
+7,Squirtle,Water
+8,Wartortle,Water
+9,Blastoise,Water
+9,BlastoiseMega Blastoise,Water
+10,Caterpie,Bug
+11,Metapod,Bug
+12,Butterfree,Bug
+13,Weedle,Bug
+14,Kakuna,Bug
+15,Beedrill,Bug
+16,Pidgey,Normal
+17,Pidgeotto,Normal
+18,Pidgeot,Normal
+19,Rattata,Normal
+20,Raticate,Normal
